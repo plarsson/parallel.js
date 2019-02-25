@@ -35,7 +35,7 @@
     "neon-cli": "^0.2.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.1.6",
+    "@babel/core": "^7.3.4",
     "babel-core": "^7.0.0-0",
     "babel-jest": "^23.6.0",
     "eslint": "^5.9.0",
